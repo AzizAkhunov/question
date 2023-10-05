@@ -1,6 +1,9 @@
 ﻿using Newtonsoft.Json;
 using Учфь;
 
+
+Event.Events();
+
 string jsonObj = @"{
     ""userId"": 1,
     ""id"": 1,
